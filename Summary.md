@@ -1,0 +1,14 @@
+- Hello, my name is Evstratenko Ivan Valerievich
+- I live in the city of Novozybkov, Bryansk region
+-  Date of birth 20.01.2004
+-  Должность:
+Information Security Specialist
+-  tel number +89913181950
+- male gender
+- Marital status: single
+-  There are children: no
+- Languages: Russian, English
+-  Moving: Possible
+- Medical book: Available
+-  Driving license: M, B
+-  
