@@ -11,7 +11,7 @@ Information Security Specialist
 -  Moving: Possible
 - Medical book: Available
 -  🚙Driving license: M, B
--  Есть навык работы в  C# преподователь  Якушенко Павел Васильевич
+-  Есть навык работы в  C# 
 -  Есть навык  работы  с  фотошопом  , InfoWatchTraficMonitor, InfoWatchDivaiceMonitor,Word,Exel
 -  Активный
 -  💴заработная плата 50000р.
